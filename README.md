@@ -1,2 +1,2 @@
 # git-exercise
-git exercise test
+git exercise test, small change
